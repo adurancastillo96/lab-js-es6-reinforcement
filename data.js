@@ -56,3 +56,8 @@ const usersArray = [
     gender: 'female'
   }
 ];
+
+// Exportamos el objeto con el array de usuarios.
+module.exports = {
+  usersArray
+};
